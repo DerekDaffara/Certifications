@@ -1,3 +1,11 @@
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
+
 Click [here](coursera.org/share/867159f857da992766288b33110ddd68) to access the Specialization Certificate on Coursera. 
 
 Specialty Title: IBM Data Science
